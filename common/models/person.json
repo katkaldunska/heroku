@@ -1,0 +1,14 @@
+{
+  "name": "person",
+  "plural": "people",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
