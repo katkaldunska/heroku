@@ -6,7 +6,19 @@
   "options": {
     "validateUpsert": true
   },
-
+  "properties": {
+    "firstname": {
+      "type": "string",
+      "required": true
+    },
+    "lastname": {
+      "type": "string",
+      "required": true
+    },
+    "age": {
+      "type": "string"
+    }
+  },
   "validations": [],
   "relations": {},
   "acls": [],
