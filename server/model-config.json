@@ -39,5 +39,9 @@
   "achievement": {
     "dataSource": "db",
     "public": true
+  },
+  "grade": {
+    "dataSource": "db",
+    "public": true
   }
 }
