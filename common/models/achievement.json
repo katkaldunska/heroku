@@ -1,0 +1,23 @@
+{
+  "name": "achievement",
+  "plural": "achievements",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "studentId": {
+      "type": "number",
+      "required": true
+    },
+    "score": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
