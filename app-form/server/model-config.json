@@ -31,21 +31,5 @@
   "Role": {
     "dataSource": "db",
     "public": false
-  },
-  "person": {
-    "dataSource": "db",
-    "public": true
-  },
-  "achievement": {
-    "dataSource": "db",
-    "public": true
-  },
-  "grade": {
-    "dataSource": "db",
-    "public": true
-  },
-  "form": {
-    "dataSource": "db",
-    "public": true
   }
 }
